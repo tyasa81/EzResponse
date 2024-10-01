@@ -1,6 +1,6 @@
 <?php
 
-namespace tyasa81\EzCrmClient\Requests;
+namespace tyasa81\EzResponse\Requests;
 
 use Illuminate\Contracts\Validation\Validator;
 use Illuminate\Foundation\Http\FormRequest;
